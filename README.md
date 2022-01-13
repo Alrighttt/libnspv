@@ -142,7 +142,7 @@ pkg install build-essential git wget libsodium libevent
 #### Linux
 ```shell
 sudo apt-get -y install build-essential pkg-config libc6-dev m4 autoconf \
-libtool unzip git wget automake
+libtool unzip git wget automake libevent-dev
 ```
 
 ## Clone repository using Git
